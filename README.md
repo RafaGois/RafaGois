@@ -1,6 +1,6 @@
 ## Oi!
-- 🔭 Atualmente trabalhando com Java ♨️
-- 🌱 Estudando C e SQL
+- 🔭 Atualmente trabalhando com Java - Android ♨️
+- 🌱 Estudando SQL e Java
 
 <div align="center">
   <a href="https://github.com/rafagois">
