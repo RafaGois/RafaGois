@@ -2,8 +2,8 @@
 
 
 ## Oi!
-- 🔭 Atualmente trabalhando com Java - Android ♨️
-- 🌱 Estudando SQL e Java
+- 🔭 Atualmente trabalhando com Next.js e Node.js♨️
+- 🌱 Estudando Typescript
 
 <div align="center">
   <a href="https://github.com/RafaGois">
