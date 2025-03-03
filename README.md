@@ -2,7 +2,7 @@
 
 
 ## Oi!
-- 🔭 Atualmente trabalhando com Next.js e Node.js♨️
+- 🔭 Atualmente trabalhando com Next.js e Node.js 🟩
 - 🌱 Estudando Typescript
 
 <div align="center">
