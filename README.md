@@ -19,5 +19,5 @@
 </div>
 
 <div align="center">
-  <a href="https://rafaelgois.com">www.rafaelgois.com</a>
+  <a href="https://rafaelgois.com" target="_blank">www.rafaelgois.com</a>
 </div>
