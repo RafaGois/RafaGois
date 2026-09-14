@@ -30,12 +30,12 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 
 ## Sobre mim
 
-- Mais de 5 anos de experiência como desenvolvedor, com foco no ecossistema TypeScript e JavaScript
-- Desenvolvimento full stack, da interface ao servidor
-- Forte interesse em UI/UX e no papel do design na experiência de quem usa o produto
-- Experiência prática com APIs, bancos de dados, servidores e infraestrutura
-- Interesse crescente em IA e machine learning aplicados a problemas reais
-- Explorando a interseção entre tecnologia, dados, agricultura e sensoriamento remoto
+- 💻 Mais de 5 anos de experiência como desenvolvedor, com foco no ecossistema TypeScript e JavaScript
+- 🧩 Desenvolvimento full stack, da interface ao servidor
+- 🎨 Forte interesse em UI/UX e no papel do design na experiência de quem usa o produto
+- 🏗️ Experiência prática com APIs, bancos de dados, servidores e infraestrutura
+- 🤖 Interesse crescente em IA e machine learning aplicados a problemas reais
+- 🌱 Explorando a interseção entre tecnologia, dados, agricultura e sensoriamento remoto
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%"/>
 
@@ -82,11 +82,11 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 
 ## Estudando agora
 
-- Arquitetura e engenharia de software
-- IA e machine learning
-- Dados e sistemas inteligentes
-- Geoprocessamento e sensoriamento remoto
-- Tecnologia aplicada ao setor agrícola e ambiental
+- 🏛️ Arquitetura e engenharia de software
+- 🤖 IA e machine learning
+- 📊 Dados e sistemas inteligentes
+- 🛰️ Geoprocessamento e sensoriamento remoto
+- 🌾 Tecnologia aplicada ao setor agrícola e ambiental
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%"/>
 
