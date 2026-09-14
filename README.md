@@ -4,7 +4,7 @@
 
 Construo aplicações web com foco em **arquitetura, experiência do usuário e qualidade de implementação**.
 
-Gosto de trabalhar no problema como um todo — da definição da solução e interface até o backend, banco de dados, infraestrutura e deploy.
+Gosto de trabalhar no problema como um todo, desde a definição da ideia e interface até o backend, banco de dados, infraestrutura e deploy.
 
 ```text
 UI / UX → Frontend → API → Database → Infrastructure
