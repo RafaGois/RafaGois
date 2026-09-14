@@ -96,7 +96,11 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RafaGois&theme=onestar&no-frame=true&column=-1&margin-w=10&margin-h=10" alt="Troféus do GitHub de Rafael Gois"/>
+<img src="https://ghchart.rshah.org/FFD23F/RafaGois" alt="Gráfico de contribuições de Rafael Gois no GitHub" width="80%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=RafaGois&background=0D0D0D&border=FFD23F&stroke=0D0D0D&ring=FFD23F&fire=FFD23F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD23F&sideLabels=FFFFFF&dates=888888" width="80%" alt="Streak de contribuições no GitHub"/>
 
 </div>
 
