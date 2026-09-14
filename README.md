@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:143CFF,100:00DDEB&height=200&section=header&text=Rafael%20Gois&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Rafael Gois, Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1B26,100:7AA2F7&height=170&section=header&text=Rafael%20Gois&fontSize=48&fontAlignY=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Rafael Gois"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js" alt="Full Stack Developer, TypeScript, React, Next.js, Node.js"/>
 
 <p>
   <a href="https://rafaelgois.com"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
@@ -26,7 +28,7 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,100:7AA2F7&height=3&section=header" width="100%" alt=""/>
 
 ## 👋 Sobre mim
 
@@ -37,7 +39,7 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 - 🤖 Interesse crescente em IA e machine learning aplicados a problemas reais
 - 🌱 Explorando a interseção entre tecnologia, dados, agricultura e sensoriamento remoto
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,100:7AA2F7&height=3&section=header" width="100%" alt=""/>
 
 ## 🧰 Stack
 
@@ -78,7 +80,7 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,100:7AA2F7&height=3&section=header" width="100%" alt=""/>
 
 ## 📚 Estudando agora
 
@@ -88,14 +90,13 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 - 🛰️ Geoprocessamento e sensoriamento remoto
 - 🌾 Tecnologia aplicada ao setor agrícola e ambiental
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,100:7AA2F7&height=3&section=header" width="100%" alt=""/>
 
 ## 🐙 GitHub
 
 <div align="center">
 
 <a href="https://github.com/RafaGois">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RafaGois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Rafael Gois"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGois&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </a>
 
@@ -105,7 +106,7 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DDEB,100:143CFF&height=120&section=footer&animation=fadeIn" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7AA2F7,100:1A1B26&height=100&section=footer&animation=fadeIn" width="100%" alt=""/>
 
 <div align="center">
 
