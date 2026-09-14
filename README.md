@@ -1,8 +1,6 @@
 <div align="center">
 
-# Rafael Gois
-
-### Full Stack Developer · TypeScript · React · Next.js · Node.js
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:143CFF,100:00DDEB&height=200&section=header&text=Rafael%20Gois&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <p>
   <a href="https://rafaelgois.com"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -10,7 +8,11 @@
   <a href="mailto:rafaelfontanabg@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=RafaGois&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=6a5cff&style=flat-square"/>
+
 </div>
+
+<br>
 
 Construo aplicações web com foco em arquitetura, experiência do usuário e qualidade de implementação.
 
@@ -24,7 +26,7 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%"/>
 
 ## Sobre mim
 
@@ -35,7 +37,7 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 - Interesse crescente em IA e machine learning aplicados a problemas reais
 - Explorando a interseção entre tecnologia, dados, agricultura e sensoriamento remoto
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%"/>
 
 ## Stack
 
@@ -76,7 +78,7 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%"/>
 
 ## Estudando agora
 
@@ -86,20 +88,24 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 - Geoprocessamento e sensoriamento remoto
 - Tecnologia aplicada ao setor agrícola e ambiental
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:143CFF,100:00DDEB&height=3&section=header" width="100%"/>
 
 ## GitHub
 
 <div align="center">
 
 <a href="https://github.com/RafaGois">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaGois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGois&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RafaGois&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGois&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=RafaGois&theme=tokyonight&hide_border=true" width="80%"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DDEB,100:143CFF&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
