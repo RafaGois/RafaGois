@@ -87,5 +87,5 @@ UI / UX  →  Frontend  →  API  →  Database  →  Infraestrutura
 - 🏛️ Arquitetura e engenharia de software
 - 🤖 IA e machine learning
 - 📊 Dados e sistemas inteligentes
-- 🛰️ Geoprocessamento e sensoriamento remoto
+- 🛰️ Eletrônica para sensoriamento remoto
 - 🌾 Tecnologia aplicada ao setor agrícola e ambiental
