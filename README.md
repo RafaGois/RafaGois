@@ -2,7 +2,7 @@
 
 # Rafael Gois
 
-Full Stack Developer · TypeScript · React · Next.js · Node.js
+Full Stack Developer · TypeScript · Next.js · Nest.js
 
 <p>
   <a href="https://rafaelgois.com"><img src="https://img.shields.io/badge/Website-FFE066?style=flat-square&logo=google-chrome&logoColor=000000" alt="Website"/></a>
